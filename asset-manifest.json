@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sijiapan.github.io/static/css/main.cf890fdb.css",
+    "main.js": "/sijiapan.github.io/static/js/main.a5a6a42d.js",
+    "static/js/453.ff6d735a.chunk.js": "/sijiapan.github.io/static/js/453.ff6d735a.chunk.js",
+    "index.html": "/sijiapan.github.io/index.html",
+    "main.cf890fdb.css.map": "/sijiapan.github.io/static/css/main.cf890fdb.css.map",
+    "main.a5a6a42d.js.map": "/sijiapan.github.io/static/js/main.a5a6a42d.js.map",
+    "453.ff6d735a.chunk.js.map": "/sijiapan.github.io/static/js/453.ff6d735a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.a5a6a42d.js"
+  ]
+}
